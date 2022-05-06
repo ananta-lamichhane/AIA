@@ -8,7 +8,7 @@ import numpy as np
 import cv2
 import utils
 
-
+#test
 def binarizeImage(img, thresh):
     """
     Given a coloured image and a threshold binarizes the image.
